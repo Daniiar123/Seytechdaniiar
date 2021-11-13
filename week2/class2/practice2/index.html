@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="tittle">Fitness Reservation Page!!</div>
+</hr>
+  <form>
+      <div class="member">
+       <fieldset class="member">
+         <legend>Member Demographics</legend>
+         <div class="row">
+            <label>Name</label> <input name="firstname"/>
+         </div>
+         <div class="row">
+            Are you a member?
+         </div>
+         <div class="row">
+            <input name="member" type="radio"/>Member<input name="member" type="radio">Non-member
+         </div>
+         <div class="row">
+            < label>Email</label> <input name="email"/>
+        </fieldset>
+        </div>
+      </div>
+      <div class="row">
+       Facility<select>
+           <option value="Badminton">Badminton</option>
+           <option value="soccer">Soccer</option>
+           <option value="pool">Pool</option>
+           <option selected value="gym">Gym</option>
+       </select>
+    </div>
+    <div class="row">
+        Select a reservation date and time:
+    </div>
+    <div class="row">
+        <input type="date"/> <input type="time">
+    </div>
+    <div class="row">
+        <input type="checkbox"/> I agree to the clubs reservation policy
+    </div>
+    <button class="row">Submit</button>
+  </form> 
+</body>
+</html>

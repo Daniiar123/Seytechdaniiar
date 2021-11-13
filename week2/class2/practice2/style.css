@@ -1,0 +1,22 @@
+body{
+    text-align:center;
+    margin:30px;
+}
+.tittle{
+    background-color: brown;
+    color: white;
+    padding: 10px;
+    width: 400px;
+    margin: auto;
+}
+.member{
+    text-align: center;
+    padding: 10px;
+}
+.row{
+    margin:15px 0px;
+}
+form{
+    background-color:rgb(205, 240, 240);
+    border:black 2px dashed;
+}

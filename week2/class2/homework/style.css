@@ -1,0 +1,12 @@
+body{
+    background-color: rgba(63, 46, 34, 0.945);
+    margin-top: 50px;
+    margin-left: 50px;
+    color: white;
+} 
+input{
+    margin:5px 50px;
+}
+.row1{
+    margin-left: 20px;
+}

@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+}
+.diff-font{
+    font-family: 'Shalimar',cursive;
+}
+.logo-wrapper{
+    text-align: center;
+}
+.logo{
+    width: 70%;
+    
+}
+li{
+    list-style: none;
+    background-color: blue;
+    padding: 10px 30px;
+    margin: 10px 0;
+}

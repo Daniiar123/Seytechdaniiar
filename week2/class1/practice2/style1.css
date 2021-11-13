@@ -1,0 +1,52 @@
+.container{
+    position: relative;
+}
+img{
+    width:100%;
+    height:auto;
+  }
+  .logo{
+    position:absolute;
+    top:5px;
+    left:25px;
+    font-weight:bold;
+    font-size:25px;
+    color: white;
+  }
+  .about{
+    position:absolute;
+    top:5px;
+    right:25px;
+    font-weight:bold;
+    font-size:25px;
+    color: white;
+  }
+  .poweredby{
+      position:absolute;
+    bottom:5px;
+    left:25px;
+    font-weight:bold;
+    font-size:25px;
+    color: white;
+    
+  }
+  .seytech{
+     position:absolute;
+    bottom:5px;
+    right:25px;
+    font-weight:bold;
+    font-size:25px;
+    color: white;
+  }
+  h1{
+      position: absolute;
+      top:50%;
+      width:100%;
+      text-align: center;
+      color: white;
+      font-size: 50px;
+  }
+  
+    
+ 
+  
